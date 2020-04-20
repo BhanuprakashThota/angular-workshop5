@@ -2,7 +2,7 @@
 
 ![Angular](https://www.ssa-frontend.com/media/1350/angular-14a0f6532f.png?mode=max&width=300&height=300)
 
-##Team
+## Team
 
 1. Venkatayashwanth Damera [Angular Introduction](https://app.vidgrid.com/view/6NCvyB7nnVpp/?sr=9Q0Onc)
 2. Puneeth Annam [Angular Services](https://app.vidgrid.com/view/ZzFNrR2au8MW/?sr=fAxOOL)
