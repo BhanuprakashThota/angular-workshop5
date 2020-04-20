@@ -2,6 +2,12 @@
 
 ![Angular](https://www.ssa-frontend.com/media/1350/angular-14a0f6532f.png?mode=max&width=300&height=300)
 
+##Team
+
+1. Venkatayashwanth Damera [Angular Introduction](https://app.vidgrid.com/view/6NCvyB7nnVpp/?sr=9Q0Onc)
+2. Puneeth Annam [Angular Services](https://app.vidgrid.com/view/ZzFNrR2au8MW/?sr=fAxOOL)
+3. Bhanuprakash Thota [Angular Practical Demo](https://app.vidgrid.com/view/SBcvD8SjZrUu)
+
 ## Introduction
 Angular is an app-design framework and development platform for creating efficient and sophisticated single-page apps. Angular is a complete rewrite from the same team that built AngularJS.The architecture of an Angular application relies on certain fundamental concepts. The basic building blocks are NgModules, which provide a compilation context for components. NgModules collect related code into functional sets; an Angular app is defined by a set of NgModules. An app always has at least a root module that enables bootstrapping, and typically has many more feature modules.
 
