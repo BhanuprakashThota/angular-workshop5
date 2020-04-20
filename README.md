@@ -134,4 +134,28 @@ name: string = '';
 
 If you save it and begin to type within the textfield, you will see that it displays in the line beneath it in real time. This is two-way data binding because it's both setting and retreiving the property to and from the component/template!
 
-## Angular API Fetch Calls
+## Angular Services
+Services are special components that are reusable throughout your app. We're going to create a service for the purpose of communicating with an API to fetch some data and display it on our lists page.
+
+Let's generate the service with the Angular CLI:
+
+  ng g s http
+  
+  Services
+  
+  import { Injectable } from '@angular/core';
+
+  @Injectable
+  
+  ({
+  
+  providedIn: 'root'
+  
+})
+
+export class HttpService 
+{
+
+  constructor() { }
+  
+}
