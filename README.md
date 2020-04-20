@@ -139,10 +139,10 @@ Services are special components that are reusable throughout your app. We're goi
 
 Let's generate the service with the Angular CLI:
 
-  ng g s http
+    ng g s http
   
-  Services
-  
+   Services File
+   
   import { Injectable } from '@angular/core';
 
   @Injectable
@@ -151,9 +151,9 @@ Let's generate the service with the Angular CLI:
   
   providedIn: 'root'
   
-})
+ })
 
-export class HttpService 
+ export class HttpService 
 {
 
   constructor() { }
